@@ -18,7 +18,7 @@ Agrega aquí una **captura de pantalla** del resultado final de tu componente.
 ### 🔗 Enlaces del proyecto
 
 - **Repositorio en GitHub:** [https://github.com/VictoriaM05/Ejercicio1U2_QrCodeComponent.git]
-- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://)
+- **Sitio desplegado (opcional):** [https://ejercicio1u2-qrcode-component.vercel.app/]
 
 ---
 
